@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shubh-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/shubh-portfolio/static/js/main.6268d38e.js",
+    "static/js/787.bd2e414b.chunk.js": "/shubh-portfolio/static/js/787.bd2e414b.chunk.js",
+    "static/media/resume.pdf": "/shubh-portfolio/static/media/resume.658180cf97b4ae09a287.pdf",
+    "index.html": "/shubh-portfolio/index.html",
+    "main.073c9b0a.css.map": "/shubh-portfolio/static/css/main.073c9b0a.css.map",
+    "main.6268d38e.js.map": "/shubh-portfolio/static/js/main.6268d38e.js.map",
+    "787.bd2e414b.chunk.js.map": "/shubh-portfolio/static/js/787.bd2e414b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6268d38e.js"
+  ]
+}
